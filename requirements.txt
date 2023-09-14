@@ -1,1 +1,2 @@
 bsedata==0.5.4
+yfinance==0.2.28
